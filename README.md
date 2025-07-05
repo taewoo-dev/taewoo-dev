@@ -1,5 +1,3 @@
-<div align="center">
-
 <br>
 
 <!-- Typing Animation -->
@@ -73,6 +71,4 @@ My goal is to use technology to bring **real-world improvements** for both users
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=eunggappung&style=for-the-badge&color=58A6FF)
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=taewoo-dev&style=for-the-badge&color=58A6FF)
