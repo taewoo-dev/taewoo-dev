@@ -2,22 +2,14 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tae+Woo+Kim.;A+Backend+Developer+who+loves+stability+and+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tae+Woo+Kim." alt="Typing SVG" />
 </a>
 
 <br><br>
 
 ## 👋 About Me
 
-I'm a backend developer who believes in solving problems through stable systems and meaningful automation.  
-I love building services that **just work**, and writing tests that ensure they stay that way.  
-My goal is to use technology to bring **real-world improvements** for both users and teams.
-
-- 🔧 Mainly working with **Python, FastAPI, Django**
-- 💡 Interested in **clean architecture**, **DevOps**, and **system design**
-- 🧪 I write tests like brushing teeth: essential and daily
-- 🌱 Continuously learning and sharing with others
-- 🤝 Believe in deep growth and collaborative synergy
+안녕하세요. Python 기반 백엔드 개발자 김태우입니다.  
 
 ---
 
@@ -56,19 +48,3 @@ My goal is to use technology to bring **real-world improvements** for both users
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taewoo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewoo-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taewoo-dev&custom_title=Eunggappung's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&theme=github-compact" />
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=taewoo-dev&style=for-the-badge&color=58A6FF)
