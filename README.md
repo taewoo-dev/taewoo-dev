@@ -4,7 +4,7 @@
 <!-- 타이핑 애니메이션 -->
 <div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=3E442B&width=435&lines=HELLO+I'm+Tae+Woo+Kim)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=87CEEB&width=435&lines=HELLO+I'm+Tae+Woo+Kim)](https://git.io/typing-svg)
 
 </div>
 
