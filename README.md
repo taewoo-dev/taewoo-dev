@@ -9,7 +9,6 @@
 
 <br><br>
 
-<!-- About Me Section -->
 ## 👋 About Me
 
 I'm a backend developer who believes in solving problems through stable systems and meaningful automation.  
@@ -49,6 +48,13 @@ My goal is to use technology to bring **real-world improvements** for both users
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
+
+---
+
+## 🧭 Portfolio & Contact
+
+- 📝 Notion Portfolio: [Click Here](https://www.notion.so/22302f7b1a0580a1b35ac021ff4459e0)
+- 📬 Email: twin9774@gmail.com
 
 ---
 
