@@ -1,5 +1,5 @@
 <!-- Header 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E9F5DB&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B3E5FC&height=150&section=header" />
 
 <!-- 타이핑 애니메이션 -->
 <div>
