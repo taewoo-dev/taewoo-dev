@@ -1,10 +1,10 @@
 <!-- Header 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DBA544&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3C9A8&height=150&section=header" />
 
 <!-- 타이핑 애니메이션 -->
 <div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=F7B538&width=435&lines=HELLO+I'm+Tae+Woo+Kim)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=2E4A3B&width=435&lines=HELLO+I'm+Tae+Woo+Kim)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,6 @@
 - 📝 [Notion Portfolio](https://www.notion.so/22302f7b1a0580a1b35ac021ff4459e0)
 - 📬 Email: twin9774@gmail.com
 
----
 
 ## 🚀 Tech Stack
 
@@ -42,4 +41,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
----
