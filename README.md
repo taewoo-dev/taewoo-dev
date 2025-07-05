@@ -1,11 +1,12 @@
-<br>
+<!-- Header 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DBA544&height=150&section=header" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tae+Woo+Kim." alt="Typing SVG" />
-</a>
+<!-- 타이핑 애니메이션 -->
+<div>
 
-<br><br>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=32&pause=1000&color=F7B538&width=435&lines=HELLO+I'm+Tae+Woo+Kim)](https://git.io/typing-svg)
+
+</div>
 
 ## 👋 About Me
 
