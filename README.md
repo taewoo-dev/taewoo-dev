@@ -10,6 +10,8 @@
 ## 👋 About Me
 
 안녕하세요. Python 기반 백엔드 개발자 김태우입니다.  
+- 📝 [Notion Portfolio](https://www.notion.so/22302f7b1a0580a1b35ac021ff4459e0)
+- 📬 Email: twin9774@gmail.com
 
 ---
 
@@ -40,11 +42,3 @@
 </p>
 
 ---
-
-## 🧭 Portfolio & Contact
-
-- 📝 Notion Portfolio: [Click Here](https://www.notion.so/22302f7b1a0580a1b35ac021ff4459e0)
-- 📬 Email: twin9774@gmail.com
-
----
-
